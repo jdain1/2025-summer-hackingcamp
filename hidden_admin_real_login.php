@@ -44,6 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <title>Hidden Admin Login</title>
+    <link rel="stylesheet" href="css/login-box.css">
 </head>
 <body>
     <h2>Hidden Admin Login (CTF)</h2>
